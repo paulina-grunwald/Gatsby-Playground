@@ -45,3 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+gatsby_blog_template/.vs/VSWorkspaceState.json
+*.json
+gatsby_blog_template/.vs/gatsby_blog_template/v15/.suo
+*.sqlite
